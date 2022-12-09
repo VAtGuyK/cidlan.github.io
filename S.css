@@ -1,0 +1,13 @@
+body{
+    background-color: #ffff00;
+}
+
+img.play{
+	color: #fff;
+    background-color: #00ff00;
+    position:absolute;
+    margin-top: 46%;
+    margin-left: 18%;
+    height: 300px; 
+    width: 400px;
+}

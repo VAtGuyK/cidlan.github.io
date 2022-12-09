@@ -1,0 +1,30 @@
+body{
+    background-color: #ffff00;
+}
+
+img.schet{
+    background-color: #0f0;
+    position: absolute;
+    margin-top: 2,5%;
+    margin-left: 9%;
+    height: 28%; 
+    width: 500px;
+}
+
+img.bykvi{
+    background-color: #0f0;
+    position: absolute;
+    margin-top: 45%;
+    margin-left: 9%;
+    height: 28%; 
+    width: 500px;
+}
+
+img.pdd{
+    background-color: #0f0;
+    position: absolute;
+    margin-top: 90%;
+    margin-left: 9%;
+    height: 28%; 
+    width: 500px;
+}
