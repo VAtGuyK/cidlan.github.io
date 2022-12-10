@@ -1,0 +1,11 @@
+body{
+    background-color: #ff0;
+}
+
+img.red{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 4%;
+    height: 28%;
+    width: 500px;
+}
